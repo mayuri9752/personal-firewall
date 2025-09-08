@@ -1,6 +1,6 @@
 <HEAD
-# personal-firewall
-# 🔥 Personal Firewall using Python
+## personal-firewall
+## Personal Firewall using Python
 
 A lightweight Python-based personal firewall using Scapy for packet sniffing, JSON rules for traffic filtering, and optional iptables + GUI support.
 🚀 Features
